@@ -20,5 +20,3 @@ hobbies:
     ["3D graphics",  "Physics",  "Programming challenges"]
 }
 ```
-
-Hope you'll enjoy it here!
