@@ -11,7 +11,7 @@ education:
 
 technologies:
 {
-    ["c++" 90%,  "SQL" 50%,  "python" 30%,  "C#" 10%]
+    ["c++" 90%,  "SQL" 50%,  "python" 30%,  "git" 30%,  "C#" 10%]
     OS: Windows/WSL/Ubuntu
 }
 
